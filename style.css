@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(201, 198, 172);
+}
+h1, h2, h3, p {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.container {
+  text-align: center;
+  margin: 50px auto;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+}
